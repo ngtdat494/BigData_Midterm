@@ -4,4 +4,3 @@ pymongo
 matplotlib
 seaborn
 scikit-learn
-vaex
